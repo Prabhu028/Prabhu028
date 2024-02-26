@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prabhusairam
-- 🌱 I’m currently learning -Azure DevOps
-- 💞️"I'm actively seeking opportunities to further develop my skills
-- 📫 Ping me in Linkedin-https://www.linkedin.com/in/ch-v-prabhusai-ram-6810b4266
+- 🌱 I’m currently learning -DevOps, Azure cloud.
+- 💞️"I'm actively seeking for opportunities to further enhance my skills
+- 📫 Ping me in MAIL: prabhusaich@gmail.com
 
 <!---
 Prabhu028/Prabhu028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
