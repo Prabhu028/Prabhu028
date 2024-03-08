@@ -1,5 +1,5 @@
-- 👋 Hi, this is Prabhusai
-- 🌱 I’m currently learning -DevOps, Azure cloud.
+- 👋 Hi, This is Prabhu
+- 🌱 DevOps and Cloud enthusiast
 - 💞️"I'm actively seeking for opportunities to further enhance my skills
 - 📫 Ping me in MAIL: prabhusaich@gmail.com
 
